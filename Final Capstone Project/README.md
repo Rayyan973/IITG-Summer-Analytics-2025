@@ -68,6 +68,16 @@ The model checks competitor prices and adjusts accordingly.
 
 ---
 
+#### Final pricing graphs
+![image](https://github.com/user-attachments/assets/6e6a96b6-a862-4e2d-a8f8-bb6441e9ed95)
+---
+![image](https://github.com/user-attachments/assets/16c16695-faa4-4e27-9bb1-6f3ee88a7f32)
+---
+![image](https://github.com/user-attachments/assets/968940c5-5743-4cc1-987d-5b0ac5411e58)
+---
+
+
+
 _Note: I couldn't get the Pathway real-time data ingestion to work properly for the life of me, will probably come back to it in the near future once I get a bit more experience :)_
 
 The final .ipynb file and dataset.csv are attached in the repo, kindly do check them out.
