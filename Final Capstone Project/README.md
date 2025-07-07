@@ -69,6 +69,8 @@ The model checks competitor prices and adjusts accordingly.
 ---
 
 #### Final pricing graphs
+Plots for only the first 3 parking lots are shown. For the rest pls refer to the .ipynb file.
+
 ![image](https://github.com/user-attachments/assets/6e6a96b6-a862-4e2d-a8f8-bb6441e9ed95)
 ---
 ![image](https://github.com/user-attachments/assets/16c16695-faa4-4e27-9bb1-6f3ee88a7f32)
